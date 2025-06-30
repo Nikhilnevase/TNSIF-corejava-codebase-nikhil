@@ -11,11 +11,6 @@ public class javabasics {
 		System.out.println(c);
 		long d = 98830234777578388L;
 		System.out.println(d);
-	
-		
-		
-		
-	
 	}
 
 }
