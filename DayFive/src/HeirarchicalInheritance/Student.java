@@ -4,7 +4,7 @@ public class Student extends Person{
 	
 	private String clas;
 	private float percent;
-	public Student() {
+	public Student(String string, String string2, String string3, float f) {
 		
 	}
 	public Student(String clas, float percent) {

@@ -1,10 +1,10 @@
 package HeirarchicalInheritance;
 
-public class Employee {
+public class Employee extends Person{
 	private int employeeId;
 	private String dept;
 	private float salary;
-	public Employee() {
+	public Employee(String string, String string2, int i, int j, String string3) {
 		System.out.print("this is default constuctor");
 		employeeId=21;
 		dept = "comp";
