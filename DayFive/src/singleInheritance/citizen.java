@@ -7,7 +7,7 @@ public class citizen {
 	private long phone;
 	
 	public citizen() {
-		System.out.print("Citizen object created ");
+		System.out.print("Citizen DEfault constructor created ");
 		
 	}
 
