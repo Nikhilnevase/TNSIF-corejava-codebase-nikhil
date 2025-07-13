@@ -11,10 +11,10 @@ public class StringVComparision {
 		
 		
 		System.out.println(s1==s1);
-		System.out.println(s1==s2);
+		System.out.println(s1==s2);// == always compare on basis of memory location "pool memory"
 		System.out.println(s1==s3);
-		System.out.println(s3.equals(s4));
-		System.out.println(s2.equals(s1));
+		System.out.println(s3.equals(s4)); // equals()	always compare  content of location or objects	
+		System.out.println(s2.equals(s1)); // objects are ALWAYS  store in Heap memory 
 		System.out.println(s2.equals(s4));
 		System.out.println(s3==s4);
 		

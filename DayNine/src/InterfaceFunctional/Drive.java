@@ -1,4 +1,4 @@
-package markerdemo;
+package InterfaceFunctional;
 
 public class Drive {
 	

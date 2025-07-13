@@ -1,4 +1,4 @@
-package markerdemo;
+package InterfaceFunctional;
 @FunctionalInterface
 public interface InterfaceDemo {
   
